@@ -1,4 +1,5 @@
 # Pixton Crack (Chrome Extension)
+# As requested by its CEO, it is not public now. And i have no interest to maintain it
 
 ## Preview
 
